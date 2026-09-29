@@ -64,7 +64,7 @@ A：应用内已集成崩溃日志捕获，重新打开应用后点击 **"查看
 ## 联系方式
 
 - 作者：你的名字
-- 项目地址：https://github.com/QYCQ-official/oppowatch4pro-心率广播
+- 项目地址：[https://github.com/QYCQ-official/oppowatch4pro-HeartRateBroadcast](https://github.com/QYCQ-official/oppowatch4pro-HeartRateBroadcast)
 
 ---
 
