@@ -1,4 +1,5 @@
-# 心率广播 (HRBroadcast)
+# oppowatch4pro-心率广播 (HRBroadcast)
+
 
 ## 项目简介
 
@@ -46,6 +47,10 @@
 3. 设备名称限制：ColorOS 下广播包中携带设备名称可能触发 `Parcel: Reading a NULL string` 错误，建议接收端按服务 UUID 过滤。
 4. 防止后台被杀：建议将应用加入 Doze 白名单：`adb shell dumpsys deviceidle whitelist +com.example.hrbroadcast`
 
+## 友情链接
+演示视频中的电脑端心率检测：
+-[心动的感觉.exe]xz.yihango.com
+
 ## 常见问题
 
 **Q：为什么搜不到广播？**
@@ -59,7 +64,7 @@ A：应用内已集成崩溃日志捕获，重新打开应用后点击 **"查看
 
 ## 开源协议
 
-本项目采用 MIT License 开源。你可以自由使用、修改、分发，甚至用于商业用途，只需保留原始版权声明。
+本项目采用 **Apache License 2.0** 开源。
 
 ## 联系方式
 
