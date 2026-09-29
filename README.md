@@ -38,23 +38,6 @@
 
 > 提示：ColorOS Watch 可能会压制通知显示，但前台服务仍可正常运行。
 
-## 开发与构建
-
-### 克隆项目
-
-`git clone https://github.com/你的用户名/你的仓库名.git`
-
-### 构建 Debug APK
-
-`./gradlew assembleDebug`
-
-生成路径：`app/build/outputs/apk/debug/app-debug.apk`
-
-### 构建 Release APK
-
-1. 在 Android Studio 中：`Build` → `Generate Signed Bundle / APK...`
-2. 选择 `APK` → 创建或选择签名密钥 → 选择 `release` → 完成。
-3. 生成路径：`app/build/outputs/apk/release/app-release.apk`
 
 ## 注意事项
 
@@ -81,7 +64,7 @@ A：应用内已集成崩溃日志捕获，重新打开应用后点击 **"查看
 ## 联系方式
 
 - 作者：你的名字
-- 项目地址：https://github.com/你的用户名/你的仓库名
+- 项目地址：[https://github.com/你的用户名/你的仓库名](https://github.com/QYCQ-official/oppowatch4pro-心率广播)
 
 ---
 
