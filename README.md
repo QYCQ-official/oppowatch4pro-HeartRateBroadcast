@@ -49,7 +49,8 @@
 
 ## 友情链接
 演示视频中的电脑端心率检测：
--[心动的感觉.exe]xz.yihango.com
+-[心动的感觉.exe](xz.yihango.com)
+-[adb适用工具箱](https://vincent8623.lanzouw.com/s/AndroidWatch-ADBToolBox)
 
 ## 常见问题
 
